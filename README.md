@@ -1,2 +1,2 @@
-# simple-sheets-duplicates
-Simple apps script code to remove duplicate rows of data
+# Simple Sheets Duplicates
+Simple apps script tool to remove duplicate rows of data in Google Sheets
